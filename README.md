@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Analytics - Capstone Project
 # Analisi Rischio Stradale Italia - Modello B2G
 
